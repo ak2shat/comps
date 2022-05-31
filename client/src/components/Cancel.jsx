@@ -2,7 +2,7 @@ import React from 'react'
 
 function Cancel() {
   return (
-<h1>Cancel hoallaaaaaa</h1>
+<h1>Cancel hoallaaaaaa kal dolaaa</h1>
   )
 }
 
